@@ -30,7 +30,7 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rutujakadu23&theme=gruvbox&no-frame=true&column=3&row=2" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ANSHULWANKHEDE&theme=gruvbox&no-frame=true&column=3&row=2" />
 </p>
 
 ---
@@ -46,9 +46,9 @@
 <h2 align="center">📊 GitHub Stats & Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rutujakadu23&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rutujakadu23&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rutujakadu23&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ANSHULWANKHEDE&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ANSHULWANKHEDE&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANSHULWANKHEDE&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -56,7 +56,7 @@
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-  <img src="https://github.com/Rutujakadu23/Rutujakadu23/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://github.com/ANSHULWANKHEDE/ANSHULWANKHEDE/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 ---
 
