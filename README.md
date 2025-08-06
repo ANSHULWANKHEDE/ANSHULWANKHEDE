@@ -1,4 +1,5 @@
 <h1 align="center">✨ Hi, I'm Anshul Wankhede 👩‍💻</h1>
+<h3 align="center">A passionate Software developer from India</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=700&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=🚀+Full+Stack+Java+Developer;💻+Spring+Boot+%7C+Angular+%7C+React+%7C+MySQL;🛠️+Bridging+Backend+Logic+%26+Frontend+Magic;🌐+Building+Smart+Web+Applications;📚+Always+Learning+Something+New!" alt="Typing SVG" />
@@ -30,7 +31,9 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ANSHULWANKHEDE&theme=gruvbox&no-frame=true&column=3&row=2" />
+<!--   <img src="https://github-profile-trophy.vercel.app/?username=ANSHULWANKHEDE&theme=gruvbox&no-frame=true&column=3&row=2" /> -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=AnshulWankhede02&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 </p>
 
 ---
