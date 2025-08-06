@@ -56,7 +56,8 @@
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-  <img src="https://github.com/ANSHULWANKHEDE/ANSHULWANKHEDE/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/ANSHULWANKHEDE/ANSHULWANKHEDE/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
+
 ---
 
