@@ -30,7 +30,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhay084&label=Profile%20views&color=0e75b6&style=flat" alt="abhay084" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ANSHULWANKHEDE&theme=gruvbox&no-frame=true&column=6&row=2&margin-w=10&margin-h=10" alt="GitHub Trophy"></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ANSHULWANKHEDE" alt="ANSHULWANKHEDE" /></a> </p>
+
 
 
 ---
