@@ -29,12 +29,10 @@
 ---
 
 <h2 align="center">🏆 GitHub Trophies</h2>
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ANSHULWANKHEDE&theme=gruvbox&no-frame=true&column=3&row=2" />
-<!--  <img src="https://github-profile-trophy.vercel.app/?username=AnshulWankhede02&theme=onedark" /> -->
-
+  <img src="https://github-profile-trophy.vercel.app/?username=AnshulWankhede02&theme=gruvbox&no-frame=true&row=2&column=4" alt="GitHub Trophy" />
 </p>
+
 
 ---
 
