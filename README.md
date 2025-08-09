@@ -41,6 +41,9 @@
 <!-- Lang -->
 
 
+<!-- Lang -->
+<h3 align="center">Languages and Tools:</h3>
+
 <div align="center">
   <table>
     <tr>
@@ -60,10 +63,24 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="65" height="65"/> 
         <br>Html
       </td>
+      <!-- New Icons replacing Tailwind -->
       <td align="center" width="90">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="65" height="65"/> 
-        <br>Tailwind
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+        <br>Java
       </td>
+      <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+        <br>MySQL
+      </td>
+      <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+        <br>Docker
+      </td>
+      <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
+        <br>Nginx
+      </td>
+      <!-- Rest remains the same -->
       <td align="center" width="90">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
         <br>React
@@ -71,6 +88,14 @@
       <td align="center" width="90">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="icon" width="55" height="55" />
         <br>Bootstrap
+      </td>
+      <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+        <br>Python
+      </td>
+    <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65"/>
+        <br>RestAPI
       </td>
       <td align="center" width="90"> 
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="Git" />
@@ -96,7 +121,6 @@
   </table>
 </div>
 
----
 
 <h2 align="center">📊 GitHub Stats & Activity</h2>
 
